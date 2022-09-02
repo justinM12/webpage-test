@@ -17,9 +17,9 @@ function addDivToDom(){
     const main = document.querySelector('main')
 
     //const headContent = createHeadContent()
-    const optionsContainer = document.createElement()
-    const taskContainer =  document.createElement()
-    const footerContent = document.createElement()
+    //const optionsContainer = document.createElement()
+    //const taskContainer =  document.createElement()
+    //const footerContent = document.createElement()
 
     const grid = document.createElement('div')
     grid.className = "grid"
